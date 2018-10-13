@@ -1,0 +1,19 @@
+Woobind Groups Initialization
+-----------------------------
+
+[Alternative Pathes]
+; LEFT=Path
+; CENTER=Path
+LEFT=C:\Documents and Settings\Roman\Application Data\Microsoft\Internet Explorer\Quick Launch
+
+[Init]
+ShiftWorkArea=False
+SendToIntegrate=False
+ShowBottom=False
+
+[Group Styles]
+LeftGroupSimple=True
+RightGroupSimple=False
+CenterGroupSimple=True
+
+

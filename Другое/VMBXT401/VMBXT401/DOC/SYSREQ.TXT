@@ -1,0 +1,10 @@
+Quadrosoft Virtual MegaBox XT 4.01
+
+Системні вимоги (мінімум):
+
+CPU     : Pentium 166 mHz
+ПАМ'ЯТЬ : 16 Mb
+ВІДЕО   : SUPER VGA 800x600 16BIT COLORS
+ВІНТ    : 2048 Kb
+СИСТЕМА : Windows 95/98
+ЗВУК    : WSS Compatibles

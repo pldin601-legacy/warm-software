@@ -1,0 +1,8 @@
+Type WAVEFORMAT
+        wFormatTag As Integer
+        nChannels As Integer
+        nSamplesPerSec As Long
+        nAvgBytesPerSec As Long
+        nBlockAlign As Integer
+End Type
+

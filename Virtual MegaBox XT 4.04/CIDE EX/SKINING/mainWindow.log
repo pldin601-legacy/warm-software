@@ -1,0 +1,182 @@
+Линия 49: Class MSComDlg.CommonDialog of control Desc2000 was not a loaded control class.
+Линия 58: Class vmbxt401.cSysTray of control cSysTray was not a loaded control class.
+Линия 67: Class MSComDlg.CommonDialog of control dlgOpenSave was not a loaded control class.
+Линия 77: Class MCI.MMControl of control MMHeader was not a loaded control class.
+Линия 110: Class vmbxt401.MTrack of control tmtLen was not a loaded control class.
+Линия 119: Class vmbxt401.MTrack of control tmtPos was not a loaded control class.
+Линия 128: Class vmbxt401.MTimer of control tmLen was not a loaded control class.
+Линия 136: Class vmbxt401.MTimer of control tmPos was not a loaded control class.
+Линия 144: Class vmbxt401.MTimer of control tmClock was not a loaded control class.
+Линия 465: Class vmbxt401.QSButton of control tubMeters was not a loaded control class.
+Линия 484: Class vmbxt401.VU of control VU1 was not a loaded control class.
+Линия 493: Class vmbxt401.VUMG of control VUMG1 was not a loaded control class.
+Линия 514: Class vmbxt401.VUMG of control VUMG1 was not a loaded control class.
+Линия 570: Class vmbxt401.QSButton of control btnExplore was not a loaded control class.
+Линия 590: Class vmbxt401.QSButton of control btnCopy was not a loaded control class.
+Линия 611: Class vmbxt401.QSButton of control btnKill was not a loaded control class.
+Линия 632: Class vmbxt401.QSButton of control btnVolume was not a loaded control class.
+Линия 653: Class vmbxt401.QSButton of control btnMode was not a loaded control class.
+Линия 674: Class vmbxt401.QSButton of control BtnSetup was not a loaded control class.
+Линия 693: Class vmbxt401.QSButton of control btnRepeat was not a loaded control class.
+Линия 714: Class vmbxt401.QSImgButton of control btnStop was not a loaded control class.
+Линия 724: Class vmbxt401.QSImgButton of control btnPause was not a loaded control class.
+Линия 734: Class vmbxt401.QSImgButton of control btnNext was not a loaded control class.
+Линия 744: Class vmbxt401.QSImgButton of control btnPlay was not a loaded control class.
+Линия 754: Class vmbxt401.QSImgButton of control btnPrev was not a loaded control class.
+Линия 765: Class vmbxt401.QSButton of control btnReset was not a loaded control class.
+Линия 785: Class vmbxt401.QSButton of control btnWindow was not a loaded control class.
+Линия 804: Class vmbxt401.QSButton of control Command1 was not a loaded control class.
+Линия 823: Class vmbxt401.QSButton of control btnExit was not a loaded control class.
+Линия 842: Class ComctlLib.Slider of control Scroller was not a loaded control class.
+Линия 959: Class vmbxt401.QSButton of control btnMinimize was not a loaded control class.
+Линия 979: Class vmbxt401.QSButton of control btnHide was not a loaded control class.
+Линия 1060: Class vmbxt401.MTimer of control tmrStop was not a loaded control class.
+Линия 1068: Class vmbxt401.MTimer of control tmrStart was not a loaded control class.
+Линия 1159: Class vmbxt401.QSButton of control btnClear was not a loaded control class.
+Линия 1179: Class vmbxt401.QSButton of control btnSelect was not a loaded control class.
+Линия 1199: Class vmbxt401.QSButton of control btnDelete was not a loaded control class.
+Линия 1219: Class vmbxt401.QSButton of control btnAdd was not a loaded control class.
+Линия 1239: Class vmbxt401.QSButton of control btnLoad was not a loaded control class.
+Линия 1259: Class vmbxt401.QSButton of control btnSave was not a loaded control class.
+Линия 1279: Class vmbxt401.QSButton of control btnFind was not a loaded control class.
+Линия 1299: Class vmbxt401.QSButton of control btnRNDSort was not a loaded control class.
+Линия 1435: Class PicClip.PictureClip of control Modes was not a loaded control class.
+Линия 17: Свойство Icon в wndMain имеет недопустимую ссылку файла.
+Линия 52: Имя свойства _ExtentX в Desc2000 недопустимо.
+Линия 53: Имя свойства _ExtentY в Desc2000 недопустимо.
+Линия 54: Имя свойства _Version в Desc2000 недопустимо.
+Линия 55: Имя свойства CancelError в Desc2000 недопустимо.
+Линия 56: Имя свойства Filter в Desc2000 недопустимо.
+Линия 61: Имя свойства _ExtentX в cSysTray недопустимо.
+Линия 62: Имя свойства _ExtentY в cSysTray недопустимо.
+Линия 63: Имя свойства InTray в cSysTray недопустимо.
+Линия 64: Имя свойства TrayIcon в cSysTray недопустимо.
+Линия 65: Имя свойства TrayTip в cSysTray недопустимо.
+Линия 70: Имя свойства _ExtentX в dlgOpenSave недопустимо.
+Линия 71: Имя свойства _ExtentY в dlgOpenSave недопустимо.
+Линия 72: Имя свойства _Version в dlgOpenSave недопустимо.
+Линия 73: Имя свойства CancelError в dlgOpenSave недопустимо.
+Линия 74: Имя свойства DefaultExt в dlgOpenSave недопустимо.
+Линия 75: Имя свойства Filter в dlgOpenSave недопустимо.
+Линия 84: Имя свойства _ExtentX в MMHeader недопустимо.
+Линия 85: Имя свойства _ExtentY в MMHeader недопустимо.
+Линия 86: Имя свойства _Version в MMHeader недопустимо.
+Линия 87: Имя свойства DeviceType в MMHeader недопустимо.
+Линия 88: Имя свойства FileName в MMHeader недопустимо.
+Линия 116: Имя свойства _ExtentX в tmtLen недопустимо.
+Линия 117: Имя свойства _ExtentY в tmtLen недопустимо.
+Линия 125: Имя свойства _ExtentX в tmtPos недопустимо.
+Линия 126: Имя свойства _ExtentY в tmtPos недопустимо.
+Линия 133: Имя свойства _ExtentX в tmLen недопустимо.
+Линия 134: Имя свойства _ExtentY в tmLen недопустимо.
+Линия 141: Имя свойства _ExtentX в tmPos недопустимо.
+Линия 142: Имя свойства _ExtentY в tmPos недопустимо.
+Линия 150: Имя свойства _ExtentX в tmClock недопустимо.
+Линия 151: Имя свойства _ExtentY в tmClock недопустимо.
+Линия 303: Свойство Picture в Model имеет недопустимую ссылку файла.
+Линия 470: Имя свойства _ExtentX в tubMeters недопустимо.
+Линия 471: Имя свойства _ExtentY в tubMeters недопустимо.
+Линия 472: Имя свойства Caption в tubMeters недопустимо.
+Линия 490: Имя свойства _ExtentX в VU1 недопустимо.
+Линия 491: Имя свойства _ExtentY в VU1 недопустимо.
+Линия 501: Имя свойства _ExtentX в VUMG1 недопустимо.
+Линия 502: Имя свойства _ExtentY в VUMG1 недопустимо.
+Линия 522: Имя свойства _ExtentX в VUMG1 недопустимо.
+Линия 523: Имя свойства _ExtentY в VUMG1 недопустимо.
+Линия 575: Имя свойства _ExtentX в btnExplore недопустимо.
+Линия 576: Имя свойства _ExtentY в btnExplore недопустимо.
+Линия 578: Имя свойства Caption в btnExplore недопустимо.
+Линия 595: Имя свойства _ExtentX в btnCopy недопустимо.
+Линия 596: Имя свойства _ExtentY в btnCopy недопустимо.
+Линия 598: Имя свойства Caption в btnCopy недопустимо.
+Линия 617: Имя свойства _ExtentX в btnKill недопустимо.
+Линия 618: Имя свойства _ExtentY в btnKill недопустимо.
+Линия 620: Имя свойства Caption в btnKill недопустимо.
+Линия 637: Имя свойства _ExtentX в btnVolume недопустимо.
+Линия 638: Имя свойства _ExtentY в btnVolume недопустимо.
+Линия 640: Имя свойства Caption в btnVolume недопустимо.
+Линия 658: Имя свойства _ExtentX в btnMode недопустимо.
+Линия 659: Имя свойства _ExtentY в btnMode недопустимо.
+Линия 661: Имя свойства Caption в btnMode недопустимо.
+Линия 679: Имя свойства _ExtentX в BtnSetup недопустимо.
+Линия 680: Имя свойства _ExtentY в BtnSetup недопустимо.
+Линия 681: Имя свойства Caption в BtnSetup недопустимо.
+Линия 698: Имя свойства _ExtentX в btnRepeat недопустимо.
+Линия 699: Имя свойства _ExtentY в btnRepeat недопустимо.
+Линия 701: Имя свойства Caption в btnRepeat недопустимо.
+Линия 719: Имя свойства _ExtentX в btnStop недопустимо.
+Линия 720: Имя свойства _ExtentY в btnStop недопустимо.
+Линия 721: Свойство Picture в btnStop имеет недопустимую ссылку файла.
+Линия 729: Имя свойства _ExtentX в btnPause недопустимо.
+Линия 730: Имя свойства _ExtentY в btnPause недопустимо.
+Линия 731: Свойство Picture в btnPause имеет недопустимую ссылку файла.
+Линия 739: Имя свойства _ExtentX в btnNext недопустимо.
+Линия 740: Имя свойства _ExtentY в btnNext недопустимо.
+Линия 741: Свойство Picture в btnNext имеет недопустимую ссылку файла.
+Линия 749: Имя свойства _ExtentX в btnPlay недопустимо.
+Линия 750: Имя свойства _ExtentY в btnPlay недопустимо.
+Линия 751: Свойство Picture в btnPlay имеет недопустимую ссылку файла.
+Линия 760: Имя свойства _ExtentX в btnPrev недопустимо.
+Линия 761: Имя свойства _ExtentY в btnPrev недопустимо.
+Линия 762: Свойство Picture в btnPrev имеет недопустимую ссылку файла.
+Линия 770: Имя свойства _ExtentX в btnReset недопустимо.
+Линия 771: Имя свойства _ExtentY в btnReset недопустимо.
+Линия 773: Имя свойства Caption в btnReset недопустимо.
+Линия 790: Имя свойства _ExtentX в btnWindow недопустимо.
+Линия 791: Имя свойства _ExtentY в btnWindow недопустимо.
+Линия 792: Имя свойства Caption в btnWindow недопустимо.
+Линия 809: Имя свойства _ExtentX в Command1 недопустимо.
+Линия 810: Имя свойства _ExtentY в Command1 недопустимо.
+Линия 811: Имя свойства Caption в Command1 недопустимо.
+Линия 828: Имя свойства _ExtentX в btnExit недопустимо.
+Линия 829: Имя свойства _ExtentY в btnExit недопустимо.
+Линия 830: Имя свойства Caption в btnExit недопустимо.
+Линия 848: Имя свойства _ExtentX в Scroller недопустимо.
+Линия 849: Имя свойства _ExtentY в Scroller недопустимо.
+Линия 850: Имя свойства _Version в Scroller недопустимо.
+Линия 852: Имя свойства Max в Scroller недопустимо.
+Линия 853: Имя свойства TickFrequency в Scroller недопустимо.
+Линия 964: Имя свойства _ExtentX в btnMinimize недопустимо.
+Линия 965: Имя свойства _ExtentY в btnMinimize недопустимо.
+Линия 966: Имя свойства Caption в btnMinimize недопустимо.
+Линия 984: Имя свойства _ExtentX в btnHide недопустимо.
+Линия 985: Имя свойства _ExtentY в btnHide недопустимо.
+Линия 986: Имя свойства Caption в btnHide недопустимо.
+Линия 1065: Имя свойства _ExtentX в tmrStop недопустимо.
+Линия 1066: Имя свойства _ExtentY в tmrStop недопустимо.
+Линия 1073: Имя свойства _ExtentX в tmrStart недопустимо.
+Линия 1074: Имя свойства _ExtentY в tmrStart недопустимо.
+Линия 1164: Имя свойства _ExtentX в btnClear недопустимо.
+Линия 1165: Имя свойства _ExtentY в btnClear недопустимо.
+Линия 1167: Имя свойства Caption в btnClear недопустимо.
+Линия 1184: Имя свойства _ExtentX в btnSelect недопустимо.
+Линия 1185: Имя свойства _ExtentY в btnSelect недопустимо.
+Линия 1187: Имя свойства Caption в btnSelect недопустимо.
+Линия 1204: Имя свойства _ExtentX в btnDelete недопустимо.
+Линия 1205: Имя свойства _ExtentY в btnDelete недопустимо.
+Линия 1207: Имя свойства Caption в btnDelete недопустимо.
+Линия 1224: Имя свойства _ExtentX в btnAdd недопустимо.
+Линия 1225: Имя свойства _ExtentY в btnAdd недопустимо.
+Линия 1227: Имя свойства Caption в btnAdd недопустимо.
+Линия 1244: Имя свойства _ExtentX в btnLoad недопустимо.
+Линия 1245: Имя свойства _ExtentY в btnLoad недопустимо.
+Линия 1247: Имя свойства Caption в btnLoad недопустимо.
+Линия 1264: Имя свойства _ExtentX в btnSave недопустимо.
+Линия 1265: Имя свойства _ExtentY в btnSave недопустимо.
+Линия 1267: Имя свойства Caption в btnSave недопустимо.
+Линия 1284: Имя свойства _ExtentX в btnFind недопустимо.
+Линия 1285: Имя свойства _ExtentY в btnFind недопустимо.
+Линия 1287: Имя свойства Caption в btnFind недопустимо.
+Линия 1304: Имя свойства _ExtentX в btnRNDSort недопустимо.
+Линия 1305: Имя свойства _ExtentY в btnRNDSort недопустимо.
+Линия 1307: Имя свойства Caption в btnRNDSort недопустимо.
+Линия 1322: Свойство Picture в gDown имеет недопустимую ссылку файла.
+Линия 1331: Свойство Picture в gUp имеет недопустимую ссылку файла.
+Линия 1361: Свойство ItemData в lstMain имеет недопустимую ссылку файла.
+Линия 1363: Свойство List в lstMain имеет недопустимую ссылку файла.
+Линия 1438: Имя свойства _ExtentX в Modes недопустимо.
+Линия 1439: Имя свойства _ExtentY в Modes недопустимо.
+Линия 1440: Имя свойства _Version в Modes недопустимо.
+Линия 1441: Имя свойства Rows в Modes недопустимо.
+Линия 1442: Свойство Picture в Modes имеет недопустимую ссылку файла.
+Линия 1447: Свойство Picture в tblLogo имеет недопустимую ссылку файла.

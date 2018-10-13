@@ -1,0 +1,226 @@
+;------- -- -
+;-- GamerStatus Plugin translation table
+;-- for version 1.0.0.4
+;-------- --- -- -
+
+
+
+
+
+
+;-----------------;
+;-- Popup texts --;
+;-----------------;
+;-- NOTE: BB-Codes ([b] & [/b]) will be removed automatically if Popup Plus is not installed
+;-----------------;
+;[[b]%s[/b] activated]
+
+;[[b]%s[/b] detected running]
+
+;[[b]%s[/b] detected running, delay: %is]
+
+;[[b]%s[/b] terminated]
+
+;[[b]%s[/b] terminated, delay: %is]
+
+;[Changed to [b]%s[/b]]
+
+;[[b]%s[/b] disabled]
+
+;[Disabled status-control for [b]%s[/b]]
+
+;[[b]Back[/b] to normal]
+
+;[LaunchInfo.txt could [b]not[/b] be opened]
+
+
+
+;----------------------;
+;-- Messagebox texts --;
+;----------------------;
+;[You must enter a process name!]
+
+;[Error]
+
+;[Modified setting]
+
+;[Delete?]
+
+;[Delete this entry?]
+
+;[Save changes to this entry?]
+
+
+
+
+;-------------------------;
+;-- Main options dialog --;
+;-------------------------;
+;[Plugin enabled]
+
+;[Check process list every]
+
+;[seconds (1 - 30)]
+
+;[Double-click for details:]
+
+;[Yes]
+
+;[No]
+
+;[LaunchInfo options]
+
+;-- Also valid for the process group dialog
+;[New]
+
+;-- Also valid for the process group dialog
+;[Delete]
+
+;[Always set global status (experimental)]
+
+;[Are you sure that you want to delete this process-group?\n\nNOTE: The deletion will take effect immediately!]
+
+
+
+
+;--------------------------;
+;-- process group dialog --;
+;--------------------------;
+;[Properties]
+
+;[Processes]
+
+;[Add]
+
+;[Apply]
+
+;[editing: %s]
+
+;[editing: New process]
+
+;[Groupname:]
+
+;[Set status on activation]
+
+;[only for online protocols]
+
+;[Status:]
+
+;[Statustext:]
+
+;[Variable list]
+
+;[Set status back afterwards]
+
+;[Notify through pop-up]
+
+;[Disable pop-ups]
+
+;[Disable miranda sounds]
+
+;[activation delay]
+
+;[deactivation delay]
+
+;[Help on delays]
+
+
+
+
+;------------------;
+;-- list columns --;
+;------------------;
+;[Process name]
+
+;[Status]
+
+;[Status message]
+
+;[Set back]
+
+;[Popup]
+
+;[Only online]
+
+;[Disable pop-ups]
+
+;[Disable sounds]
+
+
+
+
+;------------------;
+;-- Button texts --;
+;------------------;
+;[Variable list]
+
+;[Save]
+
+;[Delete]
+
+;[New]
+
+
+
+
+;-------------------------------;
+;-- LaunchInfo options dialog --;
+;-------------------------------;
+;[LaunchInfo.txt location and filename:]
+
+;[Select LaunchInfo.txt]
+
+;[Replace %launchinfo% if file is found]
+
+;[Data must be not older than]
+
+;[All data must be available]
+
+;[Usage: Just use %launchinfo% in the status message of any process to get the text above (instead of %launchinfo%). Note: No linebrakes are added automatically]
+
+;[Current data]
+
+;[FILE NOT FOUND]
+
+;[FILE FOUND, AGE: %i min]
+
+
+
+
+
+;---------------------;
+;-- Startup Dialogs --;
+;---------------------;
+;[The new gamerStatus plugin has found settings of a former version.\nThese settings are not compatible with the new version.\nDo you want to import these settings to further use them?]
+
+;[Import old gamerStatus settings?]
+
+;[gamerStatus settings are now structured in groups,\nwhich have the same settings and away-message for several games/processes.\nDo you want to import all games/processes into ONE group instead of several groups for each game/process?\n\nNOTE: All away-messages but one will be lost and you'll have to correct the settings in the options.]
+
+;[import gamerStatus settings into ONE group?]
+
+;[Do you want to delete the old settings?,\nyou won't be able to use them again if you go back to an older version of gamerStatus!\n\nNOTE: The old settings are totally independent from the new settings!]
+
+;[Delete old gamerStatus settings?]
+
+;[GamerStatus Plugin encountered a problem. Processlist stuff probably won't work.\nPlease contact the author at mistag@baze.de, if you want this problem to be fixed.\n\n(Error msg: enumProcs init failed! Return value: %i)]
+
+
+
+
+
+
+;------------------;
+;-- Help dialogs --;
+;------------------;
+;[%exename%\tProcess name that's running (bla.exe)\n%appname%\tUser-defined name of the running process\n%statdesc%\tDescription of the status that is set (NA, DND, etc.)\n%clipboard%\tContent of the clipboard (if available as text)\n%launchinfo%\tUser-defined string from the LaunchInfo-options (if available)\n\nIf AwaySys plugin v0.2.7.8+ is installed, you can also use its variables.]
+
+;[GamerStatus variables]
+
+;[LaunchInfo.txt is a file that's created by The All-Seeing Eye (www.udpsoft.com/eye)\nor GameSpy (www.gamespy.com) and contains information about the game server you connect on.\n\nThis data can be used in this dialog, once set a correct LaunchInfo.txt path,\nyou can see all the data it contains on the right side of the dialog and insert them\ninto your custom %launchinfo% variable, which can be used in every status-message of gamerStatus.]
+
+;[LaunchInfo - What's this?]
+
+;[Range: 0 (disabled) - 31\nIf a delay is activated (>0), gamerStatus waits before activating if a program is detected running.\nThis is helpful to avoid often status-changes if a program is only running for a short time.\nThe deactivation-delay is helpful if a program terminates and starts again after a short time.\n\nNOTE: The format is NOT in seconds, but in ticks:\nThe length of a tick is specified by the timer interval in the main options menu.]
+
+;[Help on delays]

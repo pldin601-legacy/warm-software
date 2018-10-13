@@ -1,0 +1,14 @@
+Installation:
+
+The FullScreenDetectorMirandaPlugin.dll file must be placed in the Plugins folder
+in the Miranda folder.
+
+Notes:
+
+Plugin periodically checks if there is a fullscreen window open.
+If it is open, it changes your status. You can set it in the plugin's option dialog,
+which status will be used then. Useful for gamers or simply if you do not want to
+be bothered when you are watching a movie or playing a game.
+
+Plugin was written by Milan Stezka (stezkamilan@seznam.cz) any questions or bug reports
+are welcome!

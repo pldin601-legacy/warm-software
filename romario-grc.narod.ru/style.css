@@ -1,0 +1,105 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #808080; FONT-SIZE: 10px; SCROLLBAR-HIGHLIGHT-COLOR: #dddddd; SCROLLBAR-SHADOW-COLOR: #333333; SCROLLBAR-ARROW-COLOR: #dddddd; FONT-FAMILY: Verdana, Arial, serif; SCROLLBAR-BASE-COLOR: #eeeeee; scrollbar-dark-shadow-color: #454545; scrollbar-3d-light-color: #cccccc
+}
+P {
+	SCROLLBAR-FACE-COLOR: #808080; FONT-SIZE: 10px; SCROLLBAR-HIGHLIGHT-COLOR: #dddddd; SCROLLBAR-SHADOW-COLOR: #333333; SCROLLBAR-ARROW-COLOR: #dddddd; FONT-FAMILY: Verdana, Arial, serif; SCROLLBAR-BASE-COLOR: #eeeeee; scrollbar-dark-shadow-color: #454545; scrollbar-3d-light-color: #cccccc
+}
+UL {
+	SCROLLBAR-FACE-COLOR: #808080; FONT-SIZE: 10px; SCROLLBAR-HIGHLIGHT-COLOR: #dddddd; SCROLLBAR-SHADOW-COLOR: #333333; SCROLLBAR-ARROW-COLOR: #dddddd; FONT-FAMILY: Verdana, Arial, serif; SCROLLBAR-BASE-COLOR: #eeeeee; scrollbar-dark-shadow-color: #454545; scrollbar-3d-light-color: #cccccc
+}
+OL {
+	SCROLLBAR-FACE-COLOR: #808080; FONT-SIZE: 10px; SCROLLBAR-HIGHLIGHT-COLOR: #dddddd; SCROLLBAR-SHADOW-COLOR: #333333; SCROLLBAR-ARROW-COLOR: #dddddd; FONT-FAMILY: Verdana, Arial, serif; SCROLLBAR-BASE-COLOR: #eeeeee; scrollbar-dark-shadow-color: #454545; scrollbar-3d-light-color: #cccccc
+}
+LI {
+	SCROLLBAR-FACE-COLOR: #808080; FONT-SIZE: 10px; SCROLLBAR-HIGHLIGHT-COLOR: #dddddd; SCROLLBAR-SHADOW-COLOR: #333333; SCROLLBAR-ARROW-COLOR: #dddddd; FONT-FAMILY: Verdana, Arial, serif; SCROLLBAR-BASE-COLOR: #eeeeee; scrollbar-dark-shadow-color: #454545; scrollbar-3d-light-color: #cccccc
+}
+B {
+	SCROLLBAR-FACE-COLOR: #808080; FONT-SIZE: 10px; SCROLLBAR-HIGHLIGHT-COLOR: #dddddd; SCROLLBAR-SHADOW-COLOR: #333333; SCROLLBAR-ARROW-COLOR: #dddddd; FONT-FAMILY: Verdana, Arial, serif; SCROLLBAR-BASE-COLOR: #eeeeee; scrollbar-dark-shadow-color: #454545; scrollbar-3d-light-color: #cccccc
+}
+TD {
+	SCROLLBAR-FACE-COLOR: #808080; FONT-SIZE: 10px; SCROLLBAR-HIGHLIGHT-COLOR: #dddddd; SCROLLBAR-SHADOW-COLOR: #333333; SCROLLBAR-ARROW-COLOR: #dddddd; FONT-FAMILY: Verdana, Arial, serif; SCROLLBAR-BASE-COLOR: #eeeeee; scrollbar-dark-shadow-color: #454545; scrollbar-3d-light-color: #cccccc
+}
+INPUT {
+	SCROLLBAR-FACE-COLOR: #808080; FONT-SIZE: 10px; SCROLLBAR-HIGHLIGHT-COLOR: #dddddd; SCROLLBAR-SHADOW-COLOR: #333333; SCROLLBAR-ARROW-COLOR: #dddddd; FONT-FAMILY: Verdana, Arial, serif; SCROLLBAR-BASE-COLOR: #eeeeee; scrollbar-dark-shadow-color: #454545; scrollbar-3d-light-color: #cccccc
+}
+UL {
+	LINE-HEIGHT: 18px
+}
+OL {
+	LINE-HEIGHT: 18px
+}
+LI {
+	LINE-HEIGHT: 18px
+}
+H3 {
+	FONT-SIZE: 14px; FONT-FAMILY: Verdana, Arial, serif
+}
+A {
+	FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: Verdana, Arial, serif
+}
+A:active {
+	FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: Verdana, Arial, serif
+}
+A:visited {
+	FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: Verdana, Arial, serif
+}
+A:hover {
+	FONT-SIZE: 10px; COLOR: white; FONT-FAMILY: Verdana, Arial, serif; BACKGROUND-COLOR: black
+}
+A.small {
+	FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: Verdana, Arial, serif
+}
+A.small:active {
+	FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: Verdana, Arial, serif
+}
+A.small:visited {
+	FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: Verdana, Arial, serif
+}
+A.small:hover {
+	FONT-SIZE: 10px; COLOR: white; FONT-FAMILY: Verdana, Arial, serif; BACKGROUND-COLOR: black
+}
+A.il:hover {
+	BACKGROUND-COLOR: transparent
+}
+.top-left {
+	BACKGROUND-IMAGE: url(images/top-left.gif); BACKGROUND-REPEAT: no-repeat
+}
+.top-center {
+	BACKGROUND-IMAGE: url(images/top-center.gif); BACKGROUND-REPEAT: repeat-x
+}
+.top-right {
+	BACKGROUND-IMAGE: url(images/top-right.gif); BACKGROUND-REPEAT: no-repeat
+}
+.left-middle {
+	BACKGROUND-IMAGE: url(images/left-middle.gif); BACKGROUND-REPEAT: repeat-y
+}
+.right-middle {
+	BACKGROUND-IMAGE: url(images/right-middle.gif); BACKGROUND-REPEAT: repeat-y
+}
+.bottom-left {
+	BACKGROUND-IMAGE: url(images/bottom-left.gif); BACKGROUND-REPEAT: no-repeat
+}
+.bottom-center {
+	BACKGROUND-IMAGE: url(images/bottom-center.gif); BACKGROUND-REPEAT: repeat-x
+}
+.bottom-right {
+	BACKGROUND-IMAGE: url(images/bottom-right.gif); BACKGROUND-REPEAT: no-repeat
+}
+.body {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: Verdana, Arial, serif
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: Verdana, Arial, serif
+}
+A.button {
+	FONT-SIZE: 11px; COLOR: #200060; FONT-FAMILY: Verdana, Arial, serif
+}
+A.button:active {
+	FONT-SIZE: 11px; COLOR: #ff0000; FONT-FAMILY: Verdana, Arial, serif; BACKGROUND-COLOR: transparent
+}
+A.button:visited {
+	FONT-SIZE: 11px; COLOR: #200060; FONT-FAMILY: Verdana, Arial, serif; BACKGROUND-COLOR: transparent
+}
+A.button:hover {
+	FONT-SIZE: 11px; COLOR: #ff0000; FONT-FAMILY: Verdana, Arial, serif; BACKGROUND-COLOR: transparent
+}
